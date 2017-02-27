@@ -22,7 +22,7 @@ B. HOW WE USE COLLECTED INFORMATION
 a. Non- Personal Information. We may use Non-Personal Information for any purpose as below:
 1 To personalize user experience- We may use your Non- Personal Information to understand demographics, customer interest, and other trends among our Users;
 2 To help develop our service- We may use Non- Personal Information to provide, maintain, improve and modify the Applications, Services and the Site and develop new services;
-3 To further develop Cheetah Mobile business. We may use Non- Personal Information for promotion and marketing purposes.
+3 To further develop business, we may use Non- Personal Information for promotion and marketing purposes.
 
 C. HOW YOUR INFORMATION MAY BE DISCLOSED
 
